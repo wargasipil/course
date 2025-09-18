@@ -75,23 +75,62 @@ Kalau React atau Vue menjalankan banyak logika di **browser** menggunakan Virtua
 
 ### Apa Saja yang Dipelajari ?
 
-```mermaid
+Kursus akan dilaksanakan dalam 4 minggu, dengan 2 kali pertemuan setiap minggu nya. Teman-teman diharapkan membawa Laptop sendiri dalam proses pembelajaran.
 
+{% stepper %}
+{% step %}
+### Minggu Pertama
 
-timeline
-    title Timeline Kursus Svelte
-    section Minggu 1
-      Setup & Pengenalan : 2025-09-23
-    section Minggu 2
-      Komponen & Reaktivitas : 2025-09-30
-    section Minggu 3
-      Routing & State Management : 2025-10-07
-    section Minggu 4
-      Final Project : 2025-10-14
+Teman-teman akan memahami & familiar dengan Svelte
 
+1. Dasar svelte
+2. Dasar website
+3. syntax
+4. etc.
+{% endstep %}
 
-```
+{% step %}
+### Minggu Kedua
+
+Teman-teman dapat membuat sebuah ui dengan dinamis
+
+1. ui dinamis dengan kondisional dan looping
+2. form
+3. binding
+4. etc.
+{% endstep %}
+
+{% step %}
+### Minggu Ketiga
+
+Teman-teman dapat memahami _store_ dan _external fetching data_
+
+1. store
+2. fetching data
+3. Mini Project
+4. etc.
+{% endstep %}
+
+{% step %}
+### Minggu Keempat
+
+Teman-teman dapat memahami transisi, _routing,_ dan membuat aplikasi final
+
+1. Deploy ke Netlify / Vercel
+2. etc.
+{% endstep %}
+{% endstepper %}
 
 ### Biaya Belajar
 
-\[penjelasan biaya]
+```mermaid fullWidth="true"
+flowchart TD
+    A[💰 Bayar Biaya Awal] --> B[📚 Ikut 3 Pertemuan Percobaan]
+    B --> C{Lanjut Kursus?}
+    C -->|Ya| D[💳 Bayar Penuh Sisa Biaya]
+    C -->|Tidak| E[🚪 Berhenti Tanpa Bayar Lagi]
+```
+
+### Form Pendaftaran
+
+Masih proses update, mohon ditunggu Teman-teman

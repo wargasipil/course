@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Selamat Datang](README.md)
 
-## List Course
+## Kursus Kita
 
-* [Belajar Frontend Dengan Svelte](list-course/svelte.md)
-* [Belajar Golang Dasar](list-course/golang.md)
+* [Belajar Frontend Dengan Svelte](kursus-kita/svelte.md)
+* [Belajar Golang Dasar](kursus-kita/golang.md)
 
 ## Info Lainnya
 
